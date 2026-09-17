@@ -20,7 +20,7 @@ An independent research project that uses Texas Hold'em as a difficult, imperfec
 - Developed an offline simulator, frozen-baseline A/B workflow, targeted hand replays, and semantic regression tests rather than judging a policy from one favorable run.
 - Generated a source-aware profile with **35,508 rows and no missing rows** while keeping **960 low-precision cases** visibly flagged for review.
 
-The linked repository is a documentation-only case study. It does not contain executable strategy code, private data, real-time assistance, automated interaction, or third-party platform integration.
+The linked repository contains an engineering case study and a small, independently rewritten C++17 example using synthetic identifiers and weights. It does not contain production strategy code, private data, real-time assistance, automated interaction, or third-party platform integration.
 
 ### [Bi-Objective Optimization for Wireless Rechargeable Sensor Networks](https://github.com/KlockYu/wrsn-optimization-case-study)
 
